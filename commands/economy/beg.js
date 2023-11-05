@@ -63,7 +63,7 @@ module.exports = {
       }
 
       userProfile.balance += amount;
-      cooldown.endsAt = date.now() + 300_000;
+      cooldown.endsAt = Date.now() + 300_000;
 
       await Promise.all([cooldown.save(), userProfile.save()]);
 
