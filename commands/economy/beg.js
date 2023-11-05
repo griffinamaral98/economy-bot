@@ -68,7 +68,7 @@ module.exports = {
       await Promise.all([cooldown.save(), userProfile.save()]);
 
       await interaction.editReply(
-        `You got $${amount}!\nNew balance: ${userProfile.balance}`
+        `You got $${amount}!\nNew balance: $${userProfile.balance}`
       );
     } catch (error) {
       console.log(`Error handling /beg: ${error}`);
