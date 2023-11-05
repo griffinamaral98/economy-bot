@@ -6,6 +6,7 @@ Economy Bot (I'll make a more creative name eventually) is a Discord bot I made 
 - Beg - Ability to beg for a chance of recieving a random amount of money
 - Gamble - Ability to gamble money with chances to make more
 - Balance - Ability to check your own balance or another users
+- Mini-games - Ability to play Rock Paper Scissors with a wager against friends. More games coming soon.
 
 ## Future Features
 
