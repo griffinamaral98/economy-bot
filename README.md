@@ -12,7 +12,6 @@ Economy Bot (I'll make a more creative name eventually) is a Discord bot I made 
 Some future features I'd like to add include:
 
 - Leaderboard - Ability to see the top 5 ranking members in the server in descending order of amount of money
-- Minigames - Ability to play minigames against friends and place a bet on the winner
 - Counter Strike case simulator - Ability to spend money and open simulated Counter Strike cases
 - Inventory - Ability to claim skin from opened cases and add it to inventory
 - Selling - Ability to sell owned skins recieved from crates
